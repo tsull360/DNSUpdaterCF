@@ -1,0 +1,2 @@
+Record,Type,TTL,Data,UserName,Password
+www,A,3600,public,usercred ,userpass
